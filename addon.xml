@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thebuglife" name="The Bug Life Repo" version="1.0.0" provider-name="TheBug.Life">
+  <extension point="xbmc.addon.repository" name="The Bug Life Repo">
+      <info compressed="true">http://raw.githubusercontent.com/thebuglife/repository.thebuglife/master/data/addons.xml.gz</info>
+      <checksum>http://raw.githubusercontent.com/thebuglife/repository.thebuglife/master/data/addons.xml.gz.md5</checksum>
+      <datadir zip="true">http://raw.githubusercontent.com/thebuglife/repository.thebuglife/master/data/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+      <summary>Install The Bug Life Addons</summary>
+      <description>Download and install The BUg Life addons</description>
+      <platform>all</platform>
+  </extension>
+</addon>
