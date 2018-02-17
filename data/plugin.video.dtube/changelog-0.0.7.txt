@@ -1,0 +1,13 @@
+v0.0.6
+- Added Hot, New, and Promoted categories.
+- Removed old test categories
+v0.0.6
+- Bugfix
+v0.0.5
+- Include payout in video title
+v0.0.4
+- Some actual functionality! Can play trending videos!
+v0.0.2
+- now with an icon
+v0.0.1
+- Initial version
